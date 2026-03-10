@@ -60,17 +60,6 @@ Field tests achieved communication distances of **over 9 km** using LoRa with a 
 
 ---
 
-## Repository Contents
-
-```
-firmware/     ESP32 source code
-cad/          3D enclosure models
-docs/         project report
-hardware/     schematics
-```
-
----
-
 ## Author
 
 **Jernej Leskovec**
