@@ -1,0 +1,17 @@
+ODDAJNIK:
+Lat 46.031483
+Lon 14.054660
+Alt 783m
+Antena h. 4m
+TX 20dBm
+
+TEST2:
+Lon 46.016199
+Lat 14.046049
+Alt 806m
+Antena h. 2m
+RX RSSI: -113
+
+GENERAL:
+Distance: 1,825 km
+freq: 433
